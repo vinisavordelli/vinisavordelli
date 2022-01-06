@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Vinicius Savordelli (@vinisavordelli), bachelor in economics & an entrepreneur. I am Brazilian and currently 27 y/o. 
+- 👋 Hi, my name is Vinicius Savordelli (@vinisavordelli), bachelor in economics & an entrepreneur. I am Brazilian and currently 28 y/o. 
 I am currently looking forward to make a big change in my professional life and do something I actually Love (and I found this);
 
 - 👀 I’m interested in becoming a full stack web developer and maybe transition into a back end developer after a while (let's see what catches my eye and warms my heart the most);
