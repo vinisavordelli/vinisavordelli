@@ -10,7 +10,7 @@
 - 🤝 I look forward to help anyone who is going through the process I've been living in the past year or by contributing in open source projects.
 
 - 💬 You can ask me about :
-- - Javascript
+  - Javascript
   - CSS
   - HTML
   - React
