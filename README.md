@@ -23,7 +23,7 @@
   - 📞 Phone: + 55(11) 98848-9449
 
 
-- 📄 You can find out about my professional trajectory at my LinkedIN: [https://www.linkedin.com/in/savordelli/](https://www.linkedin.com/in/savordelli/)
+- 📄 You can find out about my professional trajectory at my [LinkedIN](https://www.linkedin.com/in/savordelli/)
 
 - ⚡ Fun fact:
   <p align="justify">Although I had no idea at the time, my first contact with programming logic happened when I was about 13, when I coded bots for a game.</p>
