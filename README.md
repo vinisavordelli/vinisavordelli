@@ -4,25 +4,6 @@
 <p align="justify">Bachelor in economics and a former enterpreneur, in 2020 I decided this was no longer the life I wanted. I searched for something i could be  passionate about, and luckly I found software development (I'm loving it).</p>
 
 - 🔭 I’m currently working part time as a developer at Trybe, the school I study at.
-
-- 🌱 I’m currently learning Back-end web development at Trybe.
-
-- 🤝 I look forward to help anyone who is going through the process I've been living in the past year or by contributing in open source projects.
-
-- 💬 You can ask me about :
-  - Javascript
-  - CSS
-  - HTML
-  - React
-  - Redux
-  - Jest 
-  - any other technologies you find in my profile
-
-- 📫 How to reach me: 
-  - 📧 Email: vinicius.savordellI@gmail.com
-  - 📞 Phone: + 55(11) 98848-9449
-
-
 - 📄 You can find out about my professional trajectory at my [LinkedIN](https://www.linkedin.com/in/savordelli/)
 
 - ⚡ Fun fact:
