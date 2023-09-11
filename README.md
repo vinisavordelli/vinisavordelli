@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Savordelli</h1>
-<h3 align="center">And I'm makig a big change in my carreer: I'm becoming a developer!</h3>
+<h3 align="center">And I am A Backend End Developer and Data Analyst!</h3>
 
-<p align="justify">Bachelor in economics and a former enterpreneur, in 2020 I decided this was no longer the life I wanted. I searched for something i could be  passionate about, and luckly I found data (I'm loving it).</p>
+<p align="justify">Bachelor in economics and a former enterpreneur, in 2020 I decided this was no longer the life I wanted. I searched for something i could be  passionate about, and luckly I found programming (I'm loving it).</p>
 
 - 🔭 I'm currently working as a data analyst
 - 📄 You can find out about my professional trajectory at my [LinkedIN](https://www.linkedin.com/in/savordelli/)
