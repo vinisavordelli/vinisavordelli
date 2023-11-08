@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinicius Savordelli</h1>
 <h3 align="center">And I am A Backend End Developer and Data Analyst!</h3>
 
-<p align="justify">Bachelor in economics and a former enterpreneur, in 2020 I decided this was no longer the life I wanted. I searched for something i could be  passionate about, and luckly I found programming (I'm loving it).</p>
+<p align="justify">Bachelor in economics and a former enterpreneur, in 2020 I decided this was no longer the life I wanted. I searched for something i could be  passionate about, and luckly I found programming!(I'm loving it).</p>
 
-- 🔭 I'm currently working as a data analyst
+<p align="justify"> Currently I have two passions, Backend Development and Data, I have experience in both and I look forward to become more experienced in either</p>
+
+
 - 📄 You can find out about my professional trajectory at my [LinkedIN](https://www.linkedin.com/in/savordelli/)
-
-- ⚡ Fun fact:
-  <p align="justify">Although I had no idea at the time, my first contact with programming logic happened when I was about 13, when I coded bots for a game.</p>
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
